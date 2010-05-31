@@ -58,5 +58,3 @@ make test
 %{_mandir}/man1/*
 %{_mandir}/man3/*
 %{_mandir}/man5/*
-
-%changelog
