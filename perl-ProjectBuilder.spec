@@ -46,7 +46,6 @@ make test
 %doc NEWS AUTHORS
 %doc INSTALL COPYING README
 %config(noreplace) %{_sysconfdir}/pb
-
 %{perlvendorlib}/*
 %{_bindir}/*
 %{_mandir}/man1/*
