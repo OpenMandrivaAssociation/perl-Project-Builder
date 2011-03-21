@@ -5,8 +5,6 @@
 %define srcname ProjectBuilder
 
 Summary:	Perl module providing multi-OSes (Linux/Solaris/...) Continuous Packaging
-Summary(fr):	Module Perl pour le support de divers OS (Linux/Solaris/...)
-
 Name:		perl-ProjectBuilder
 Version:	0.11.2
 Release:	%mkrel 1
