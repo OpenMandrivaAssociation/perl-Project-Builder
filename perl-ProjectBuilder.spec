@@ -24,10 +24,6 @@ to help develop packages for projects and deal
 with different Operating systems (Linux distributions, Solaris, ...).
 It implements a Continuous Packaging approach.
 
-%description -l fr
-perl-ProjectBuilder est un ensemble de fonctions pour aider à développer des projets perl 
-et à traiter de diverses distributions Linux.
-
 %prep
 %setup -q -n %{srcname}-%{version}
 
