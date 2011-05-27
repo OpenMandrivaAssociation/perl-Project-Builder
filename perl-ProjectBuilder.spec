@@ -6,7 +6,7 @@
 
 Summary:	Perl module providing multi-OSes (Linux/Solaris/...) Continuous Packaging
 Name:		perl-ProjectBuilder
-Version:	0.11.2
+Version:	0.11.3
 Release:	%mkrel 1
 License:	GPL
 Group:		System/Configuration/Packaging
