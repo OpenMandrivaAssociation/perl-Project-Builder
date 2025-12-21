@@ -16,6 +16,7 @@ BuildRoot:	%{_tmppath}/%{srcname}-%{version}-%{release}-root-%(id -u -n)
 BuildArch:	noarch
 Requires:	perl >= 5.8.4, 
 
+BuildRequires:	make
 %description
 ProjectBuilder is a perl module providing set of functions
 to help develop packages for projects and deal
